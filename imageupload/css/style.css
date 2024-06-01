@@ -1,0 +1,20 @@
+.heroBack{
+    background-image: url('https://images.pexels.com/photos/1420440/pexels-photo-1420440.jpeg?auto=compress&cs=tinysrgb&w=600');
+    background-size: cover;
+}
+#intro-example {
+    height: 300px;
+  }
+
+  /* Height for devices larger than 992px */
+  @media (min-width: 992px) {
+    #intro-example {
+      height: 300px;
+    }
+  }
+  img.designImage{
+    margin: 5px;
+    width: 300px;
+    height: 300px;
+  
+  }

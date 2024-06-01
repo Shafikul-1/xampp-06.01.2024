@@ -1,0 +1,16 @@
+.newsHeeding{
+    padding: 5px 0;
+    background: linear-gradient(45deg, red, green, blue);
+    text-align: center;
+    width: 100% !important;
+    color: white;
+}
+.navbarManuel{
+    margin: -11px 0 0 0;
+}
+.navPor{
+    margin-top: 1rem;
+}
+.addUserBtnSm{
+    padding: 4px 25px !important;
+}
